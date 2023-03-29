@@ -1,0 +1,115 @@
+ body {
+   background-color: skyblue;
+   margin: 0px;
+   text-align: center;
+   font-family: sans-serif;
+ }
+
+ h1 {
+   font-family: Cedarville Cursive, Arial, Helvetica, sans-serif;
+ }
+
+ h3 {
+   font-style: italic;
+ }
+
+ .stud {
+   text-decoration: underline;
+ }
+
+ .top1 {
+   position: absolute;
+   top: 50px;
+   left: 300px;
+ }
+
+ .bottom {
+   position: absolute;
+   top: 300px;
+   right: 500px;
+ }
+
+ .titi {
+   width: 900px;
+   height: 400px;
+ }
+
+ .one {
+   width: 200px;
+   height: 200px;
+ }
+
+ .two {
+   width: 200px;
+   height: 200px;
+ }
+
+ .news {
+   position: fixed;
+   bottom: 40px;
+   left: 40px;
+ }
+
+ .imagine1 {
+   position: fixed;
+   width: 20px;
+   height: 20px;
+   top: 20px;
+   left: 20px;
+ }
+
+ .imagine2 {
+   position: fixed;
+   width: 20px;
+   height: 20px;
+   top: 50px;
+   left: 20px;
+ }
+
+ .imagine3 {
+   position: fixed;
+   width: 20px;
+   height: 20px;
+   top: 80px;
+   left: 20px;
+ }
+
+ .imagine4 {
+   position: fixed;
+   width: 20px;
+   height: 20px;
+   top: 110px;
+   left: 20px;
+ }
+
+ .o1 {
+   position: fixed;
+   color: black;
+   top: 20px;
+   left: 50px;
+ }
+
+ .o2 {
+   position: fixed;
+   color: black;
+   top: 50px;
+   left: 50px;
+ }
+
+ .o3 {
+   position: fixed;
+   color: black;
+   top: 80px;
+   left: 50px;
+ }
+
+ .o4 {
+   position: fixed;
+   color: black;
+   top: 110px;
+   left: 50px;
+ }
+
+ .bottom-container {
+   font-family: Cedarville Cursive, Arial, Helvetica, sans-serif;
+ }
